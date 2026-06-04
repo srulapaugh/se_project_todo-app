@@ -1,17 +1,17 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+Providing a non complex and useful To-Do list
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+Easily create and remove items from your list via checkboxes, delete buttons, equipped with Due Dates to keep you on track
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+Created using GitHub repository, VS Code, Dot AI assistance, TripleTen scope and guidelines
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+(https://srulapaugh.github.io/se_project_todo-app/)
