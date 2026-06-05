@@ -1,6 +1,6 @@
 # Simple Todo App
 
-Providing a non complex and useful To-Do list
+Providing a non complex and useful To-Do list, giving the ability to add new items, check off and delete completed items as needed
 
 ## Functionality
 
