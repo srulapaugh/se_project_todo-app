@@ -1,6 +1,6 @@
 # Simple Todo App
 
-Providing a non complex and useful To-Do list, giving the ability to add new items, check off and delete completed items as needed
+Providing a non complex and useful To-Do list, giving the ability to add new items, check off and delete completed items as needed.Provides calender options to assign dates for each task, and will remove once completed. Counts are applied to keep track of how many tasks you are needing to complete.
 
 ## Functionality
 
