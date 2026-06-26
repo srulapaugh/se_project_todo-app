@@ -37,13 +37,7 @@ class Todo {
       .cloneNode(true);
   }
 
-  _generateNameEl() {
-    this._nameEl = this._element.querySelector(".todo__name");
-    this._nameEl = this._element.textContent = this._name;
-  }
-
   _generateDateEl() {
-    this._dateEl = this._element.querySelector("todo__date");
     const dueDate = new Date(this._data.date);
 
     if (!isNaN(dueDate)) {
@@ -69,7 +63,6 @@ class Todo {
 
   _remove = () => {
     this._todoElement.remove();
-    this._element = null;
   };
 
   getView() {
@@ -87,7 +80,7 @@ class Todo {
 
     this._generateCheckboxEl();
     this._setEventListeners();
-
+    this._generateDateEl();
     return this._todoElement;
   }
 }
